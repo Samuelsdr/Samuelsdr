@@ -2,7 +2,7 @@
 
 **´Estudante´**
 
-Me chamo Samuel da silva rocha, tenho 21 anos, estudo na Univerisade Estadual Ponta Grossa(UEPG) cursando o curso de Engenharia De Computação, atualmente no segundo ano.
+Me chamo Samuel da silva rocha, tenho 22 anos, estudo na Univerisade Estadual Ponta Grossa(UEPG) cursando o curso de Engenharia De Computação, atualmente no segundo ano.
 
 ## 🔗 Contato e Redes Sociais  
 
