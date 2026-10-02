@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Engenharia de Computação
 
-Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG)**. Atualmente, estou no **2º ano do curso**, desenvolvendo conhecimentos em programação, desenvolvimento de software e tecnologia.
+Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG)**. Atualmente, estou no **3º ano do curso**, desenvolvendo conhecimentos em programação, desenvolvimento de software e tecnologia.
 
 ---
 
