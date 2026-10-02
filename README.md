@@ -9,7 +9,6 @@ Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Eng
 ## 🚀 Sobre mim
 
 * 🎓 Engenharia de Computação — **UEPG**
-* 💻 Estudante e apaixonado por tecnologia
 * 🌱 Atualmente estudando **JavaScript**
 * 🧠 Interesse em programação, desenvolvimento e computação
 * 📚 Sempre buscando aprender e desenvolver novos projetos
@@ -27,10 +26,6 @@ Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Eng
 
   <img alt="JavaScript" title="JavaScript" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  <img alt="HTML5" title="HTML5" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-  <img alt="CSS3" title="CSS3" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
   <img alt="Git" title="Git" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
   <img alt="GitHub" title="GitHub" width="45px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
@@ -46,7 +41,6 @@ Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Eng
 * ☕ **Java**
 * 🔵 **C**
 * 🗄️ **Banco de Dados**
-* 🧩 **Estruturas de Dados e Algoritmos**
 
 ---
 
@@ -84,7 +78,7 @@ Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Eng
 
 ---
 
-### 💡 "Sempre aprendendo, sempre evoluindo."
+
 
 <p align="center">
   <i>Obrigado pela visita ao meu perfil! 🚀</i>
