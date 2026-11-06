@@ -40,8 +40,8 @@ Olá! Me chamo **Samuel da Silva Rocha**, tenho 22 anos e sou estudante de **Eng
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://vercel.app" style="padding-right: 10px;" />
-  <img height="180" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" style="padding-right: 10px;" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
 
 ---
